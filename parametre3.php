@@ -110,7 +110,7 @@
                                     <label for='new_password_retype'>Ajouter un profile</label>
                                     <input type="file" id="new_password_retype" name="new_password_retype" class="form-control" required/>
                                     <br />
-                                    <button on type="submit" class="btn btn-success">Sauvegarder</button>
+                                    <button type="submit" class="btn btn-success">Sauvegarder</button>
                                 </form>
                             </div>
                             <div class="modal-footer">
